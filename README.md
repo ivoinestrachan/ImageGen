@@ -1,5 +1,8 @@
 # ImageGen
 
+![image](https://user-images.githubusercontent.com/70272280/207924365-a8433851-7420-4562-b07f-2606c79fe11d.png)
+
+
 ImageGen is a web application built with Next.js and TypeScript that allows users to create custom images by overlaying a word on top of an existing image.
 
 ## Features
