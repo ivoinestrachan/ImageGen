@@ -15,7 +15,7 @@ ImageGen is a web application built with Next.js and TypeScript that allows user
 1. Install the necessary dependencies:
 
 ```
-npm install @types/sharp
+npm install 
 ```
 
 2. Run the development server:
